@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\bin\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.genruntimeconfig.cache
